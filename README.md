@@ -4,12 +4,12 @@
 
 Yuk-Ngantri merupakan sistem antrian masuk kelas berbasis web. Melalui Yuk-Ngantri dosen dapat mengatur gelombang kedatangan mahasiswa dan membuat presensi kehadiran.
 
-[Yuk-Ngantri](https://instagram.com/_tarmuji22)
+[Yuk-Ngantri](https://yuk-ngantri.herokuapp.com)
 
 ## 👨🏽‍🤝‍👨🏽 Kontributor
 
-1. Sobar
-2. Tarmuji
+1. [Sobar Pazri](https://www.instagram.com/sobarpazri)
+2. [Tarmuji](https://instagram.com/_tarmuji22)
 
 ## 📝 ERD
 
